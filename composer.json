@@ -1,10 +1,13 @@
 {
-    "name": "fzaninotto/faker",
+    "name": "lauripiisang/faker",
     "type": "library",
     "description": "Faker is a PHP library that generates fake data for you.",
     "keywords": ["faker", "fixtures", "data"],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Lauri Piisang"
+        },
         {
             "name": "François Zaninotto"
         }
